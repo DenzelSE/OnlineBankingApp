@@ -13,4 +13,3 @@ def forgot():
                 pin = confirmpin
                 return confirmpin
 
-print(forgot())
